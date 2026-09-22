@@ -1,0 +1,6 @@
+{
+  "threshold": 1.0,
+  "dist_same_person": 0.7916,
+  "dist_diff_person": 1.2506,
+  "note": "Khoảng cách Euclidean < threshold → cùng người"
+}
